@@ -23,7 +23,7 @@
 
 :company_name: Chair of Software Technology
 
-== Purpose of this Document
+== Purpose of this Documentt
 
 This document represents the Software Requirements Specification (SRS, German: close to a "Pflichtenheft") of the project **{project_name}**.
 It aims to provide an overview of the software product to be built and functions as a basis for communication between

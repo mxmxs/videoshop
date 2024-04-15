@@ -22,7 +22,7 @@
 |===
 
 == Introduction and Goals
-=== Task Definition
+=== Task Definitionn
 
 NOTE: This task aims to provide an example for the {project_name}.
 It is written from the perspective of the client of this project ({company_name}) and therefore can be seen as a requirements specification.
